@@ -41,5 +41,6 @@ class Ash1 {
 		}
 
 	}
+	ara
 
 }
