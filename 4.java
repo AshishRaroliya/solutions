@@ -13,7 +13,7 @@ class Ash {
 					at[j + 1] = temp;
 				}
 
-			
+			shssdasd
 			}
 
 		}
@@ -40,6 +40,5 @@ class Ash1 {
 		}
 
 	}
-	ara
 
 }
