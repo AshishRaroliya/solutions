@@ -40,5 +40,5 @@ class Ash1 {
 		}
 
 	}
-
+ssss
 }
